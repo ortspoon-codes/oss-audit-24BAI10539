@@ -129,8 +129,8 @@ oss-audit-24BAI10539/
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/[your-username]/oss-audit-24BAI10504.git
-cd oss-audit-24BAI10504
+git clone https://github.com/ortspoon-codes/oss-audit-24BAI10539.git
+cd oss-audit-24BAI10539
 ```
 
 #### 2. Make Scripts Executable
