@@ -3,8 +3,8 @@
 ## 🎓 Student Information
 | Field | Details |
 |-------|---------|
-| **Student Name** | Tanmay Kala |
-| **Registration Number** | 24BAI10504 |
+| **Student Name** | Vedant Kothari |
+| **Registration Number** | 24BAI10539 |
 | **Course** | Open Source Software (OSS NGMC) |
 | **Chosen Software** | Python (PSF License) |
 
@@ -34,7 +34,7 @@ oss-audit-24BAI10504/
 
 ---
 
-## 🔧 Scripts Description
+##  Scripts Description
 
 ### Script 1: System Identity Report
 **File:** `script1_system_identity.sh`
@@ -118,7 +118,7 @@ oss-audit-24BAI10504/
 
 ---
 
-## 🚀 How to Run the Scripts
+##  How to Run the Scripts
 
 ### Prerequisites
 - A Linux system (Ubuntu, Fedora, CentOS, or any other distribution)
@@ -175,7 +175,7 @@ sudo ./script4_log_analyzer.sh /var/log/auth.log failed
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 | Dependency | Required For | Installation |
 |------------|--------------|--------------|
@@ -204,7 +204,7 @@ The Python Software Foundation License is a BSD-style, permissive free software 
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This is an academic project. However, if you find any bugs or have suggestions:
 1. Fork the repository
