@@ -215,8 +215,8 @@ This is an academic project. However, if you find any bugs or have suggestions:
 
 ## 📞 Contact
 
-- **Student:** Tanmay Kala
-- **Registration:** 24BAI10504
+- **Student:** Vedant Kothari
+- **Registration:** 24BAI10539
 - **Institution:** VIT University
 
 ---
