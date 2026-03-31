@@ -1,0 +1,8 @@
+=== MY OPEN SOURCE MANIFESTO ===
+Created on 29 March 2026
+
+I use Git every day - built by a community, not a corporation.
+To me, freedom means choice.
+I would build a collaborative text editor and share it freely with the world.
+
+Signed: Vedant Kothari
